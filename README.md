@@ -1,7 +1,7 @@
-# hello-word
+# hello-star
 a simple testing repository
+### Omar
 
-### Im omar star
 
 ***testing symbols***
 
